@@ -1,0 +1,26 @@
+footer{
+    background-color: snow;
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    padding: 1em;
+}
+img {
+    width: 150px;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+body{
+    position: relative;
+    padding: 1em;
+}
+.contenedor{
+    display: flex;
+
+}
+h3:hover{
+    color: darksalmon;
+}
+h1{
+    color: darkgray;
+}

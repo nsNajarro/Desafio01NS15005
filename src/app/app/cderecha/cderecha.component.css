@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(4, 4, 64);
+    float: inline-end;
+    overflow: hidden;
+    color: white;
+    text-align: left;
+    padding-top: 103px;
+    padding-bottom: 103px;
+    min-width: 150px;
+    position:  relative;
+    
+}
+h3:hover{
+    color: orange;
+}
+p{
+    color: darkgray;
+}
+h1{
+    color: orange;
+}
+
